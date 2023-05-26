@@ -30,4 +30,6 @@ We chose option 2 using regex because we are aware how pandas works and we wante
 ![Figure 5](Images/Figure_5.png)
 
 ~The Cool Cat Coders
+
+
 ![Cool Cat Coders:)](Images/cat_on_computer.jpg)
