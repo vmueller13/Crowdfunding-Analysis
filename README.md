@@ -19,13 +19,13 @@ At the start of the project, we extracted the crowdfunding.xlsx data and read it
 
 *CRUD*
 
-For this part of the project, we made a copy of the crowdfunding information and created a new DataFrame. We renamed some of the columns, converted the 'goal' and 'pledged' columns to float and formatted the launch_date and end_date columns to datetime. We also were able to drop the unwanted columns and export the data to a CSV file.
+For this part of the project, we followed the CRUD process to prepare the Campaign DataFrame We renamed some of the columns, converted the 'goal' and 'pledged' columns to float and formatted the launch_date and end_date columns to datetime. We found it interesting that the original number for the launch_date adn end_date had seconds as their unit so we had to include this parameter in our code so that the correct dates would be counted. We also were able to drop the unwanted columns and export the data to a CSV file.
 
 ![Figure 4](Images/Figure_4.png)
 
 <ins>Contacts DataFrame</ins>
 
-We chose option 2 using regex because we are aware how pandas works and we wanted to practice using the new regex skills. We changed the data type for the contact_id column, extracted the email addresses, first and last names into their own columns. Finally, to clean up the data, we dropped uneccessary columns and reordered the information.
+We chose option 2 using regex because we are aware how pandas works and we wanted to practice using the new regex skills. We faced a challenge creating the pattern for the regex as this was our first attempt using these skills. We changed the data type for the contact_id column, extracted the email addresses, first and last names into their own columns. Finally, to clean up the data, we dropped uneccessary columns and reordered the information.
 
 ![Figure 5](Images/Figure_5.png)
 
