@@ -34,7 +34,7 @@ We chose option 2 using regex because we are aware how pandas works and we wante
   
 For the ER Diagram, we first created the Sql DB tables. We quickly identified that the Campaign table would give us a variety of relationships to connect to (Foreign Keys) and thus we identified our primary key within this table (cf_id). As you can see from the ER Diagram contact id, subcategory_id were amongst some of the foreign keys identified.
 
-![Crowdfunding DBD](Crowdfunding_ERD.png)
+![Crowdfunding DBD](crowdfunding_db.png)
 
  
 ~The Cool Cat Coders
