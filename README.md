@@ -37,4 +37,4 @@ For the ER Diagram, we first created the Sql DB tables. We quickly identified th
 ~The Cool Cat Coders
 
 
-<img src="Images/cat_on_computer.jpg" alt="Cool Cat Coders" width="40" height="400">
+<img src="Images/cat_on_computer.jpg" alt="Cool Cat Coders" width="400" height="400">
